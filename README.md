@@ -1,13 +1,21 @@
 # 💫 About Me:
 
 💻 Full Stack Developer & BCA Final-Year Student,
+
 🔭 Currently building Shopping Stuff (E-commerce platform) and Quiz App (learning platform)
+
 🌱 Actively learning advanced backend integration, and system design
+
 👯 Open to collaborating on full-stack web applications, AI-integrated platforms, and open-source projects
+
 🤔 Exploring ways to optimize performance and scalability in large-scale MERN stack applications
+
 💬 Comfortable discussing MERN Stack, JavaScript, DSA, PHP, MySQL, GitHub, and tech communities
+
 📲 Experienced in content creation for college clubs (design, engagement)
+
 📫 Reach me at kushmalarora017@gmail.com 
+
 😄 Pronouns: He/Him
 
 
