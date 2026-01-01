@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 💫 About Me :
 
-💻 Full Stack Developer & BCA Final-Year Student,
+💻 Full Stack Developer & BCA Final-Year Student
 
 🔭 Currently building Shopping Stuff (E-commerce platform) and Quiz App (learning platform)
 
